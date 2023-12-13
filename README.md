@@ -1,3 +1,7 @@
+This repository contains demonstration PDF files that you can use as part of the "Build an AI-Powered Workplace Helper App" Microsoft Learn module. 
+
+Some of these texts have been generated with AI, as noted by the name featuring "[AI generated]". 
+
 
 # Contributing
 
