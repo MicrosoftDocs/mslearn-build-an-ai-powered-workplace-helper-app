@@ -1,7 +1,7 @@
 # Microsoft Learn: Build an AI-Powered Workplace Helper App - Sample Assets
 This repository contains demonstration PDF files that you can use as part of the "Build an AI-Powered Workplace Helper App" Microsoft Learn module. 
 
-**You can find the example texts to use for your generative AI project in the directors *"Demo organisational policy texts for generative AI"*. This contains five fictitious company documents for use by for use by employees of the ficitious Contoso company.**
+**You can find the example texts to use for your generative AI project in the directory named *"Demo organisational policy texts for generative AI"*. This contains five fictitious company documents for use by for use by employees of the ficitious Contoso company.**
 
 Some of these texts have been generated with AI, as noted by the name featuring *"[AI generated]"*. 
 
